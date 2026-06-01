@@ -13,7 +13,7 @@ Highlights:
 - 🚨 Error Handling (Frontend & Backend)
 - 🚀 Free Deployment
 - 🎯 Built with Scalable Technologies like Stream
-- 🤖 AI Assistant built in
+- 🤖 Personal AI Assistant 'Lingua 'built in
 - ⏳ And much more!
   
 
